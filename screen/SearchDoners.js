@@ -9,7 +9,7 @@ import { StatusBar } from 'expo-status-bar';
 export default function SearchDoners( {navigation} ){
 
     const [doners, setDoners] = useState([]);
-    const url = "https://covidtrackerapi.herokuapp.com/doner/find";
+    const url = "--ADD API KEY FOR EXTRACTING DONERS DATA--";
     const [isLoading, setIsloading] = useState(false);
     const [error,setError] = useState();
     useEffect(() => {
