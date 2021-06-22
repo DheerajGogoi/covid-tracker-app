@@ -1,0 +1,33 @@
+<Picker.Item label= 'Baksa' value= 'Baksa'/>
+                <Picker.Item label= 'Barpeta' value= 'Barpeta'/>
+                <Picker.Item label= 'Biswanath' value= 'Biswanath'/>
+                <Picker.Item label= 'Bongaigaon' value= 'Bongaigaon'/>
+                <Picker.Item label= 'Cachar' value= 'Cachar'/>
+                <Picker.Item label= 'Charaideo' value= 'Charaideo'/>
+                <Picker.Item label= 'Chirang' value= 'Chirang'/>
+                <Picker.Item label= 'Darrang' value= 'Darrang'/>
+                <Picker.Item label= 'Dhemaji' value= 'Dhemaji'/>
+                <Picker.Item label= 'Dhubri' value= 'Dhubri'/>
+                <Picker.Item label= 'Dibrugarh' value= 'Dibrugarh'/>
+                <Picker.Item label= 'Dima Hasao (North Cachar Hills)' value= 'Dima Hasao (North Cachar Hills)'/>
+                <Picker.Item label= 'Goalpara' value= 'Goalpara'/>
+                <Picker.Item label= 'Golaghat' value= 'Golaghat'/>
+                <Picker.Item label= 'Hailakandi' value= 'Hailakandi'/>
+                <Picker.Item label= 'Hojai' value= 'Hojai'/>
+                <Picker.Item label= 'Jorhat' value= 'Jorhat'/>
+                <Picker.Item label= 'Kamrup' value= 'Kamrup'/>
+                <Picker.Item label= 'Kamrup Metropolitan' value= 'Kamrup Metropolitan'/>
+                <Picker.Item label= 'Karbi Anglong' value= 'Karbi Anglong'/>
+                <Picker.Item label= 'Karimganj' value= 'Karimganj'/>
+                <Picker.Item label= 'Kokrajhar' value= 'Kokrajhar'/>
+                <Picker.Item label= 'Lakhimpur' value= 'Lakhimpur'/>
+                <Picker.Item label= 'Majuli' value= 'Majuli'/>
+                <Picker.Item label= 'Morigaon' value= 'Morigaon'/>
+                <Picker.Item label= 'Nagaon' value= 'Nagaon'/>
+                <Picker.Item label= 'Nalbari' value= 'Nalbari'/>
+                <Picker.Item label= 'Sivasagar' value= 'Sivasagar'/>
+                <Picker.Item label= 'Sonitpur' value= 'Sonitpur'/>
+                <Picker.Item label= 'South Salamara-Mankachar' value= 'South Salamara-Mankachar'/>
+                <Picker.Item label= 'Tinsukia' value= 'Tinsukia'/>
+                <Picker.Item label= 'Udalguri' value= 'Udalguri'/>
+                <Picker.Item label= 'West Karbi Anglong' value= 'West Karbi Anglong'/>
