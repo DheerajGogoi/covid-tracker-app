@@ -218,7 +218,7 @@ export default class DonerForm extends Component{
 
             // console.log(request);
 
-            axios.post('https://covidtrackerapi.herokuapp.com/doner/add', request)
+            axios.post('--ADD API KEY FOR UPLOADING DONERS DATA--', request)
                 .then(
                     Alert.alert('Submitted', "You've succefully posted your request.", [
                         {text: 'Done', onPress: () => console.log('Alert Closed')}
