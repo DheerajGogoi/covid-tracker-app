@@ -9,7 +9,7 @@ import { StatusBar } from 'expo-status-bar';
 export default function SearchRequests( {navigation} ){
 
     const [requests, setRequests] = useState([]);
-    const url = "https://covidtrackerapi.herokuapp.com/request/find";
+    const url = "--ADD API KEY FOR EXTRACTING REQUESTS DATA--";
     const [isLoading, setIsloading] = useState(false);
     const [error,setError] = useState();
     useEffect(() => {
