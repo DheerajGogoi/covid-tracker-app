@@ -112,7 +112,7 @@ export default class RequestForm extends Component{
                 agreement: values.agreement,
             }
 
-            axios.post('https://covidtrackerapi.herokuapp.com/request/add', request)
+            axios.post('--ADD API KEY FOR UPLOADING REQUESTS DATA--', request)
                 .then(
                     Alert.alert('Submitted', "You've succefully posted your request.", [
                         {text: 'Done', onPress: () => console.log('Alert Closed')}
