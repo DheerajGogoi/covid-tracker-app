@@ -6,7 +6,7 @@ Tech used:
 
 App's key features:
 - Shows Realtime live data of covid cases in various countries and also shows India's state wise covid updates
-- User can register him/her self as a doner and help others in need
+- User can register him/her self as a donor and help others in need
 - People can post requests for plasma donations by entering some personal deatils that takes less than 5 min
 - All important emergency numbers are available, just click it and make your call
 - This app also redirects users to official COWIN vaccination registration website
