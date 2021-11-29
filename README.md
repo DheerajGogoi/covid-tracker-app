@@ -22,6 +22,14 @@ Mode of use:
   ### `expo start`
 - Your app is up and running
 
+For Server
+- Go to /server directory
+- In the terminal run
+  ### `npm install`
+  to install all the dependencies
+- After succssfully installing all the dependencies, run this to start the server:
+  ### `npm start`
+
 Resources used:
 - API keys for
   - World's stats: https://api.covid19api.com/summary
